@@ -146,7 +146,8 @@ Infrastructure:
 
 <div align="center">
 
-### *Engineering Intelligence. Building the Future.*
-
 ```text
 © DEIDALIUS • AI Engineering Laboratory
+```
+</div>
+
