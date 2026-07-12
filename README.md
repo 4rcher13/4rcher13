@@ -3,7 +3,7 @@
 
 <td width="160" align="center">
 
-<img src="images/Logocon nombre.JPG" width=""/>
+<img src="images/Logocon nombre.JPG" width="300"/>
 
 </td>
 
