@@ -19,6 +19,8 @@ src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=
 [ STATUS    ] ONLINE
 ```
 
+</td>
+</tr>
 </table>
 
 <details>
