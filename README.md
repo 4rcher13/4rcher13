@@ -9,8 +9,7 @@
 
 <td>
 
-<img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&pause=1500&color=00C896&center=true&vCenter=true&width=700&lines=▮+JESUS_MENDOZA_CUAUTLE;▮+CYBERSECURITY_LEARNER...;▮+ARTIFICIAL_INTELLIGENCE_ENTHUSIAST;+▮+ALWAYS_LEARNING"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&pause=1500&color=00C896&center=true&vCenter=true&width=700&lines=%E2%96%AE+JESUS_MENDOZA_CUAUTLE;%E2%96%AE+CYBERSECURITY_LEARNER...;%E2%96%AE+ARTIFICIAL_INTELLIGENCE_ENTHUSIAST;%E2%96%AE+ALWAYS_LEARNING"/>
 
 ```text
 [ USER      ] 4rcher13
@@ -147,7 +146,7 @@ Infrastructure:
 <div align="center">
 
 ```text
-© DEIDALIUS • AI Engineering Laboratory
+© DEIDALIUS
 ```
-</div>
 
+</div>
