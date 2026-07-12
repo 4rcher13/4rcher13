@@ -3,7 +3,7 @@
 
 <td width="160" align="center">
 
-<img src="images/logo.jpg" width="130" alt="ARCHER Core"/>
+<img src="images/Logocon nombre.JPG" width=""/>
 
 </td>
 
