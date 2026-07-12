@@ -137,13 +137,6 @@ Infrastructure:
 </ul>
 </details>
 
-<p><br>
-
- <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:009688&height=140&section=header&text=ARCHER%20COMMAND%20CENTER&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
 </p>
