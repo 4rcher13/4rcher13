@@ -23,7 +23,7 @@
 </table>
 
 <details>
-<summary><b>ABOUT ME</b></summary>
+<summary><b> ABOUT ME </b></summary><br>
 
 > CORE_INTERESTS
 
@@ -73,7 +73,7 @@ Infrastructure:
 </details>
 
 <details>
-<summary><b> TECH_STACK </b></summary>
+<summary><b> TECH_STACK </b></summary><br>
 
 > LANGUAGES
 
@@ -126,7 +126,7 @@ Infrastructure:
 </details>
 
 <details>
-<summary><b> PROJECTS </b></summary>
+<summary><b> PROJECTS </b></summary><br>
 <ul>
   <li><a href="https://github.com/4rcher13/Asistente-IA"><b>Asistente-IA</b></a>
   AI assistant with local LLM support,
@@ -137,7 +137,7 @@ Infrastructure:
 </ul>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:009688&height=140&section=header&text=ARCHER%20COMMAND%20CENTER&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:009688&height=140&section=header&text=ARCHER%20COMMAND%20CENTER&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
 </p>
 
