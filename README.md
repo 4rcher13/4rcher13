@@ -128,7 +128,7 @@ Infrastructure:
 <details>
 <summary><b> PROJECTS </b></summary><br>
 <ul>
-  <li><a href="https://github.com/4rcher13/Asistente-IA"><b>Asistente-IA</b></a>
+  <li><a href="https://github.com/4rcher13/Asistente-IA"><b>Icaro</b></a>
   AI assistant with local LLM support,
   RAG, MCP integration and desktop interface.
   </li>
