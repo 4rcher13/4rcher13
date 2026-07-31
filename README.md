@@ -141,11 +141,9 @@ Infrastructure:
   <img src="dist/space-invaders.svg" width="550" alt="Space Invaders"/>
 </div>
 
-</details>
-
 <br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:009688&height=140&section=header&text=ARCHER%20COMMAND%20CENTER&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
-</p>
+
 
 <div align="center">
 
