@@ -136,14 +136,10 @@ Infrastructure:
   </li>
 </ul>
 </details>
-
-<details>
-<summary><b> GITHUB INVADERS </b></summary><br>
-
-> Cada invasor es un dia de actividad real de mi calendario de contribuciones.
-> Caen en vertical en loop mientras la nave se mueve sola y dispara.
-
-<img src="dist/space-invaders.svg" width="550"/>
+  
+<div align="center">
+  <img src="dist/space-invaders.svg" width="550" alt="Space Invaders"/>
+</div>
 
 </details>
 
