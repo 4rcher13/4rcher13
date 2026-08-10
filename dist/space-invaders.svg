@@ -110,7 +110,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(336,90)" color="#30363d" opacity="0.22">
+      <g transform="translate(336,90)" color="#006d32" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -124,7 +124,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(382,90)" color="#006d32" opacity="0.95">
+      <g transform="translate(382,90)" color="#26a641" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -152,7 +152,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(474,90)" color="#26a641" opacity="0.95">
+      <g transform="translate(474,90)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -278,7 +278,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(336,136)" color="#30363d" opacity="0.22">
+      <g transform="translate(336,136)" color="#006d32" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -292,7 +292,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(382,136)" color="#006d32" opacity="0.95">
+      <g transform="translate(382,136)" color="#0e4429" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -320,7 +320,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(474,136)" color="#0e4429" opacity="0.95">
+      <g transform="translate(474,136)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -362,7 +362,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(60,182)" color="#006d32" opacity="0.95">
+      <g transform="translate(60,182)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -390,7 +390,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(152,182)" color="#30363d" opacity="0.22">
+      <g transform="translate(152,182)" color="#0e4429" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -404,7 +404,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(198,182)" color="#0e4429" opacity="0.95">
+      <g transform="translate(198,182)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -446,7 +446,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(336,182)" color="#30363d" opacity="0.22">
+      <g transform="translate(336,182)" color="#0e4429" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -460,7 +460,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(382,182)" color="#0e4429" opacity="0.95">
+      <g transform="translate(382,182)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -656,7 +656,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(474,228)" color="#30363d" opacity="0.22">
+      <g transform="translate(474,228)" color="#26a641" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -670,7 +670,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(520,228)" color="#26a641" opacity="0.95">
+      <g transform="translate(520,228)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -698,7 +698,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(60,274)" color="#30363d" opacity="0.22">
+      <g transform="translate(60,274)" color="#0e4429" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -712,7 +712,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(106,274)" color="#0e4429" opacity="0.95">
+      <g transform="translate(106,274)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -726,7 +726,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(152,274)" color="#30363d" opacity="0.22">
+      <g transform="translate(152,274)" color="#0e4429" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -754,7 +754,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(244,274)" color="#0e4429" opacity="0.95">
+      <g transform="translate(244,274)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -782,7 +782,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(336,274)" color="#30363d" opacity="0.22">
+      <g transform="translate(336,274)" color="#26a641" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -796,7 +796,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(382,274)" color="#26a641" opacity="0.95">
+      <g transform="translate(382,274)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -824,7 +824,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(474,274)" color="#30363d" opacity="0.22">
+      <g transform="translate(474,274)" color="#006d32" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -838,7 +838,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(520,274)" color="#006d32" opacity="0.95">
+      <g transform="translate(520,274)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -964,7 +964,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(382,320)" color="#30363d" opacity="0.22">
+      <g transform="translate(382,320)" color="#26a641" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -978,7 +978,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(428,320)" color="#26a641" opacity="0.95">
+      <g transform="translate(428,320)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -992,7 +992,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(474,320)" color="#30363d" opacity="0.22">
+      <g transform="translate(474,320)" color="#0e4429" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -1006,7 +1006,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(520,320)" color="#0e4429" opacity="0.95">
+      <g transform="translate(520,320)" color="#30363d" opacity="0.22">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
