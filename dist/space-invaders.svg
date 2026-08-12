@@ -18,7 +18,7 @@
     SCORE&lt;GITHUB&gt;
   </text>
   <text x="60" y="52" fill="#e6edf3" font-size="20">
-    00060
+    00064
   </text>
   <text x="456" y="30" fill="#39d353" font-size="14" letter-spacing="2">
     @4rcher13
@@ -348,7 +348,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(566,136)" color="#30363d" opacity="0.22">
+      <g transform="translate(566,136)" color="#006d32" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
@@ -656,7 +656,7 @@
             repeatCount="indefinite"/>
         </g>
       </g>
-      <g transform="translate(474,228)" color="#26a641" opacity="0.95">
+      <g transform="translate(474,228)" color="#006d32" opacity="0.95">
         <g>
           <use href="#alien" width="22" height="16" x="-11" y="-8"/>
           <animateTransform attributeName="transform" type="translate"
