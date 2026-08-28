@@ -174,23 +174,24 @@ function renderSVG(grid, totalContributions) {
   const shipMinX = MARGIN_X - 10;
   const shipMaxX = WIDTH - MARGIN_X - 10;
   const shipDur = 6;
+  const bulletTravel = shipY - 20; // hasta dónde sube la bala (coords locales)
 
-  // Disparos: nacen escalonados en el eje X y suben hasta arriba,
-  // sincronizados a ojo con el recorrido de la nave (values del
-  // animateTransform de la nave) para dar sensación de que dispara
-  // mientras se desplaza.
+  // Disparos: van DENTRO del mismo <g> que se traslada con la nave, así
+  // que heredan su transform automáticamente (misma posición X en todo
+  // momento, sin animación propia en X). Cada bala solo anima su propia
+  // traslación vertical local (0 -> -bulletTravel) y su opacidad; el
+  // cañón queda pegado a la nave sin importar dónde esté.
   let bullets = "";
-  const bulletCount = 5;
+  const bulletCount = 4;
+  const fireInterval = 1.3; // segundos entre disparos
   for (let i = 0; i < bulletCount; i++) {
-    const begin = (i * shipDur) / bulletCount;
+    const begin = i * (fireInterval / bulletCount);
     bullets += `
-      <rect x="0" y="0" width="2" height="10" fill="#39d353">
+      <rect x="-1" y="-9" width="2" height="10" fill="#39d353">
         <animateTransform attributeName="transform" type="translate"
-          values="${shipMinX + 11},${shipY}; ${shipMaxX + 11},${shipY}"
-          dur="${shipDur}s" begin="0s" repeatCount="indefinite"/>
-        <animate attributeName="y" values="0;-${shipY - 20}" dur="1.1s"
+          values="0,0; 0,-${bulletTravel}" dur="${fireInterval}s"
           begin="${begin}s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="1;1;0" dur="1.1s"
+        <animate attributeName="opacity" values="1;1;0" dur="${fireInterval}s"
           begin="${begin}s" repeatCount="indefinite"/>
       </rect>`;
   }
@@ -221,15 +222,15 @@ function renderSVG(grid, totalContributions) {
     <rect x="0" y="70" width="${WIDTH}" height="${HEIGHT - 100}"/>
   </clipPath>
 
-  ${bullets}
-
   <g color="#39d353">
-    <use href="#ship" width="24" height="14" x="-12" y="-7">
+    <g>
       <animateTransform attributeName="transform" type="translate"
         values="${shipMinX},${shipY}; ${shipMaxX},${shipY}; ${shipMinX},${shipY}"
         keyTimes="0;0.5;1"
         dur="${shipDur}s" repeatCount="indefinite"/>
-    </use>
+      <use href="#ship" width="24" height="14" x="-12" y="-7"/>
+      ${bullets}
+    </g>
   </g>
 
   <text x="${MARGIN_X}" y="${HEIGHT - 8}" fill="#e6edf3" font-size="12" opacity="0.7">
