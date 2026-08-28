@@ -18,7 +18,7 @@ jobs:
 
       - uses: czl9707/gh-space-shooter@v2
         env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE20: true
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'game.gif'
